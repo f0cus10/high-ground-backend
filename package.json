@@ -1,0 +1,14 @@
+{
+  "name": "high-ground-backend",
+  "version": "1.0.0",
+  "description": "Backend for detecting RSS flash flood alerts and triggers evacuation procedure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hack4resilience"
+  ],
+  "author": "Iftikhar Khan",
+  "license": "GPL-3.0-or-later"
+}
